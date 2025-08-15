@@ -1,6 +1,6 @@
 
 
-# 🧱 Clay.com Enterprise Page Clone
+# 🧱 Enterprise Landing Page
 *Copy of clay.com/enterprise web-page made for 23BG as assignment test*  
 
 **Cloud-production** - https://23-bg-clay-copy.vercel.app/
