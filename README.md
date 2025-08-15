@@ -2,7 +2,7 @@
 
 # 🧱 Enterprise Landing Page
 
-**Cloud-production** - https://23-bg-clay-copy.vercel.app/
+**Cloud-production** - https://enterprise-landing-ten.vercel.app/
 
 A fully responsive, mobile-first landing page for displaying Enterprise data, built as part of a frontend assignment using **Next.js** and **TailwindCSS**.
 
