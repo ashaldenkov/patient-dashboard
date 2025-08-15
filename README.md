@@ -40,9 +40,3 @@ This project is a faithful frontend-only implementation of Clay’s Enterprise p
 - This is a **frontend-only clone** built from scratch based on the design and behavior of Clay's Enterprise page.
 - No backend or CMS was used.
 - Optimized for both **desktop and mobile** with pixel-perfect fidelity.
-
----
-
-## 📄 License
-
-MIT License  
