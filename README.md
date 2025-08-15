@@ -4,13 +4,13 @@
 
 **Cloud-production** - https://23-bg-clay-copy.vercel.app/
 
-A fully responsive, mobile-first clone of the [clay.com/enterprise](https://clay.com/enterprise) landing page, built as part of a frontend assignment for 23BG using **Next.js** and **TailwindCSS**.
+A fully responsive, mobile-first landing page for displaying Enterprise data, built as part of a frontend assignment using **Next.js** and **TailwindCSS**.
 
 ---
 
 ## ✨ Description
 
-This project is a faithful frontend-only implementation of Clay’s Enterprise page. It recreates the structure, layout, and interactive elements using reusable components and a mobile-first approach. The design includes everything from hero sections and customer carousels to feature breakdowns, integration logos, and security highlights—crafted to reflect a production-quality landing page.
+This project is a faithful frontend-only implementation Enterprise page. It recreates the structure, layout, and interactive elements using reusable components and a mobile-first approach. The design includes everything from hero sections and customer carousels to feature breakdowns, integration logos, and security highlights—crafted to reflect a production-quality landing page.
 
 ---
 
@@ -36,6 +36,5 @@ This project is a faithful frontend-only implementation of Clay’s Enterprise p
 
 ## 🖥️ Notes
 
-- This is a **frontend-only clone** built from scratch based on the design and behavior of Clay's Enterprise page.
 - No backend or CMS was used.
 - Optimized for both **desktop and mobile** with pixel-perfect fidelity.
